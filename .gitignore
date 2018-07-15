@@ -21,3 +21,16 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/Concurrency/.idea/
+/HighConcurrency/.idea/
+/HighConcurrency/concurrency.iml
+/Concurrency/mvnw.cmd
+/HighConcurrency/mvnw.cmd
+/Concurrency/concurrency.iml
+/HighConcurrency/mvnw
+/HighConcurrency/concurrency (1).iml
+/Concurrency/mvnw
+/Concurrency/target/
+/HighConcurrency/target/
+/HighConcurrency/concurrency (2).iml
+/Concurrency/concurrency (1).iml
